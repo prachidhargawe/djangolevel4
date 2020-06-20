@@ -1,0 +1,5 @@
+{% load static %}
+body {
+ background-image: url({% static 'images/download.jpg' %});
+ background-color: #c41818;
+}
